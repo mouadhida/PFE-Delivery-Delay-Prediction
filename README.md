@@ -1,5 +1,5 @@
 # PFE-Delivery-Delay-Prediction-
-PFE_KHALI_NASSIRI
+PFE_KHALID_NASSIRI
 Sujet du PFE : *Tableau de bord prédictif pour la détection des retards de livraison*
 _Objectif_ :
 Développer une application web ou un tableau de bord qui permet de détecter et de prédire les retards dans les livraisons à l'aide d'un modèle de machine learning. Les prédictions devront se baser sur des variables pertinentes telles que :
